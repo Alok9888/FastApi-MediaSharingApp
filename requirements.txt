@@ -1,0 +1,15 @@
+FastAPI backend
+
+fastapi uvicorn[standard] python-multipart
+
+Database and authentication
+
+sqlalchemy aiosqlite fastapi-users fastapi-users-db-sqlalchemy
+
+ImageKit and environment variables
+
+imagekitio python-dotenv
+
+Streamlit frontend and HTTP requests
+
+streamlit requests
